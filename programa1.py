@@ -1,4 +1,5 @@
 
 # Mi primer programa
-# acá hace algo
+# correción bug transmisión
+# ahora si sirve
 
